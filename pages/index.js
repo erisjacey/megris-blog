@@ -21,7 +21,7 @@ const Home = ({ allPostsData }) => {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Welcome to Eris&apos; blog!</p>
+        <p>Welcome to Megan and Eris&apos; blog!</p>
         <p>
           This is a still a work in progress. More to show in the future. :)
         </p>
